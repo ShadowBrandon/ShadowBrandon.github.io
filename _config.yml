@@ -1,0 +1,39 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Brandon Arias
+tagline:             A Moderately Okay Data Science Blog
+url:                 
+paginate:            2
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Brandon Arias
+  url:               https://twitter.com/
+  email:             brandonarias2018@u.northwestern.edu
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://ShadowBrandon.github.io
+
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Page List
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/index.html'
