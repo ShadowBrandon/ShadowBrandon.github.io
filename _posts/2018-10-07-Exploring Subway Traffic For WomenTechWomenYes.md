@@ -88,6 +88,3 @@ of the score card, where those with the highest number were our best recomendati
 
 
 
-
-
-
