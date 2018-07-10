@@ -15,7 +15,7 @@ ideally from those who will attend the gala and contribute to their cause.
 
 Our approach was taking MTA Turnstile Data from April 1, 2018 - June 30, 2018 since we believe that the gala would
 benefit from campaining two to three months before the gala starts. From there, our group cleaned up the data set by 
-removing duplicate data, removing negative counts, cap 4hr intervals at 50,000, and remove days with 0 riders.
+removing duplicate data, removing negative counts, cap 4 hour intervals at 50,000, and remove days with 0 riders.
 It is worth noting that only 5 percent of the data had one of these characteristics. 
 
 In the first wave of data analysis, we looked at results of ridership by various variables.
@@ -28,24 +28,24 @@ Finally, our group did a "Ridership Was Weighted by Percent IT Residents" . doin
 of the score card, where those with the highest number were our best recomendations for sending outreach:
 
 >> Daily Total Ridershop Per Station * % of NYC’s Information Tech Workers that are Residents in that Station’s Zip Code = Daily IT Ridership Per Station
-
+![placeholder](https://github.com/ShadowBrandon/Metropolitan-Transportation-Authority-Analysis-/blob/master/MTACleaning.png "Large example image")
 
 ## The First Wave of Results -
 
 #### Top 10 MTA Stations 
 
-
+![placeholder](http://placehold.it/800x400 "Large example image")
 
 #### Week in Spring for Canvassing
 
-
+![placeholder](http://placehold.it/800x400 "Large example image")
 #### Days of the Week to Canvass
 
-
+![placeholder](http://placehold.it/800x400 "Large example image")
 ## The Second Wave of Results -
 
 
-
+![placeholder](http://placehold.it/800x400 "Large example image")
 
 
 ## The Recommendations from Weighted Scores
