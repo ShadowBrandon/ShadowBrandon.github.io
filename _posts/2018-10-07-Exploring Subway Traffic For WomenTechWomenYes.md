@@ -47,7 +47,7 @@ of the score card, where those with the highest number were our best recomendati
 
 ## The Second Wave of Results -
 
-![Image test]({{https://github.com/ShadowBrandon/ShadowBrandon.github.io/tree/master}}/Images//WeightedTop10.png "Top 10 MTA Station Ridership (weighted)")
+![Image test]({{https://github.com/ShadowBrandon/ShadowBrandon.github.io/tree/master}}/Images/WeightedTop10.png "Top 10 MTA Station Ridership (weighted)")
 
 
 ## The Recommendations from General Analysis and Weighted Scores Analysis
