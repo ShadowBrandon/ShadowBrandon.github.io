@@ -29,7 +29,7 @@ would provide a stronger likelihood to gather the most signatures, attend the ga
 Finally, our group did a "Ridership Was Weighted by Percent IT Residents" . doing The following provides a rough formula
 of the score card, where those with the highest number were our best recomendations for sending outreach:
 
-![Image test](https://github.com/ShadowBrandon/ShadowBrandon.github.io/tree/master/Images/MTACleaning.png "Method of Weighting")
+![Image test]({{https://github.com/ShadowBrandon/ShadowBrandon.github.io/tree/master}}/Images/MTACleaning.png "Method of Weighting")
 
 ## The First Wave of Results -
 
@@ -58,7 +58,7 @@ of the score card, where those with the highest number were our best recomendati
 * Tues-Thurs
 * All Spring weeks equally good
 ### Station from high priority to low-priority:
-![Image test]({{https://github.com/ShadowBrandon/ShadowBrandon.github.io/tree/master}}/Images//master/CorrectedTop10StationWeightedListFinal.png "Top 10 MTA Station Ridership List (weighted)")
+![Image test]({{https://github.com/ShadowBrandon/ShadowBrandon.github.io/tree/master}}/Images/CorrectedTop10StationWeightedListFinal.png "Top 10 MTA Station Ridership List (weighted)")
 
 
 
