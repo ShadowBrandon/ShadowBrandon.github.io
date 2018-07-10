@@ -1,3 +1,8 @@
+---
+layout: post
+title: Introduction
+---
+
 # Exploring Subway Traffic For WomenTechWomenYes 
 
 ## The Challenge
@@ -45,22 +50,22 @@ of the score card, where those with the highest number were our best recomendati
 
 ## The Recommendations from Weighted Scores
 ### Canvass at MTA stations with:
-- High ridership in April-June
-- High proportions of information workers living in the same zip code as the station
+* High ridership in April-June
+* High proportions of information workers living in the same zip code as the station
 ### Canvass at MTA stations when: 
-- Tues-Thurs
-- All Spring weeks equally good
+* Tues-Thurs
+* All Spring weeks equally good
 ### Station from high priority to low-priority:
-- 14 ST-UNION SQ
-- 34 ST-HERALD SQ
-- 34 ST-PENN STA
-- JAY ST-METROTEC
-- BEDFORD AV
-- BOROUGH HALL
-- 59 ST COLUMBUS
-- 96 ST
-- 14 ST-UNION SQ
-- W 4 ST-WASH SQ
+* 14 ST-UNION SQ
+* 34 ST-HERALD SQ
+* 34 ST-PENN STA
+* JAY ST-METROTEC
+* BEDFORD AV
+* BOROUGH HALL
+* 59 ST COLUMBUS
+* 96 ST
+* 14 ST-UNION SQ
+* W 4 ST-WASH SQ
 
 
 
