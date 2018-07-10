@@ -29,7 +29,7 @@ would provide a stronger likelihood to gather the most signatures, attend the ga
 Finally, our group did a "Ridership Was Weighted by Percent IT Residents" . doing The following provides a rough formula
 of the score card, where those with the highest number were our best recomendations for sending outreach:
 
-![Image test]({{https://github.com/ShadowBrandon/ShadowBrandon.github.io/tree/master}}/Images/MTACleaning.png "Method of Weighting")
+![Image test](https://github.com/ShadowBrandon/ShadowBrandon.github.io/tree/master/Images/MTACleaning.png "Method of Weighting")
 
 ## The First Wave of Results -
 
