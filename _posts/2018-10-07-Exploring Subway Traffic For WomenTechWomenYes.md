@@ -35,7 +35,7 @@ of the score card, where those with the highest number were our best recomendati
 
 #### Top 10 MTA Stations 
 
-![Image test]({{https://github.com/ShadowBrandon/ShadowBrandon.github.io/tree/master}}/Images/MTARidership.png "Top 10 MTA Station Ridership (non-weighted)")
+![Image test]({{https://github.com/ShadowBrandon/ShadowBrandon.github.io/tree/master}}/Images/MTARidership.png "Top 10 MTA Station Ridership no weight")
 
 #### Number of Week in Spring for Canvassing
 
@@ -58,7 +58,7 @@ of the score card, where those with the highest number were our best recomendati
 * Tues-Thurs
 * All Spring weeks equally good
 ### Station from high priority to low-priority:
-![Image test]({{https://github.com/ShadowBrandon/ShadowBrandon.github.io/tree/master}}/Images/CorrectedTop10StationWeightedListFinal.png "Top 10 MTA Station Ridership List (weighted)")
+![Image test]({{https://github.com/ShadowBrandon/ShadowBrandon.github.io/tree/master}}/Images/FinalizedListedTop10.png "Top 10 MTA Station Ridership List (weighted)")
 
 
 
