@@ -60,6 +60,9 @@ of the score card, where those with the highest number were our best recomendati
 ### Station from high priority to low-priority:
 ![Image test]({{https://github.com/ShadowBrandon/ShadowBrandon.github.io/tree/master}}/Images/FinalizedListedTop10.png "Top 10 MTA Station Ridership List (weighted)")
 
+END~~~
+-------------------
+
 
 
 
