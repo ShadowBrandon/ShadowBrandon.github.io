@@ -50,7 +50,7 @@ of the score card, where those with the highest number were our best recomendati
 ![placeholder](https://github.com/ShadowBrandon/Metropolitan-Transportation-Authority-Analysis-/blob/master/WeightedTop10.png "Top 10 MTA Station Ridership (weighted)")
 
 
-## The Recommendations from Weighted Scores
+## The Recommendations from General Analysis and Weighted Scores Analysis
 ### Canvass at MTA stations with:
 * High ridership in April-June
 * High proportions of information workers living in the same zip code as the station
@@ -58,18 +58,7 @@ of the score card, where those with the highest number were our best recomendati
 * Tues-Thurs
 * All Spring weeks equally good
 ### Station from high priority to low-priority:
-* 14 ST-UNION SQ
-* 34 ST-HERALD SQ
-* 34 ST-PENN STA
-* JAY ST-METROTEC
-* BEDFORD AV
-* BOROUGH HALL
-* 59 ST COLUMBUS
-* 96 ST
-* 14 ST-UNION SQ
-* W 4 ST-WASH SQ
-
-
+![placeholder](https://github.com/ShadowBrandon/Metropolitan-Transportation-Authority-Analysis-/blob/master/CorrectedTop10StationWeightedListFinal.png "Top 10 MTA Station Ridership List (weighted)")
 
 
 
