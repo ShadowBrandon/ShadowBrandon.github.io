@@ -18,7 +18,7 @@ benefit from campaining two to three months before the gala starts. From there, 
 removing duplicate data, removing negative counts, cap 4 hour intervals at 50,000, and remove days with 0 riders.
 It is worth noting that only 5 percent of the data had one of these characteristics. 
 
-![placeholder](https://github.com/ShadowBrandon/Metropolitan-Transportation-Authority-Analysis-/blob/master/MTACleaning.png "Abstract Method of Cleaning")
+![Image test]({{https://github.com/ShadowBrandon/ShadowBrandon.github.io/tree/master}}/Images/MTAWeighting.png "Abstract Method of Cleaning")
 
 In the first wave of data analysis, we looked at results of ridership by various variables.
 
@@ -29,25 +29,25 @@ would provide a stronger likelihood to gather the most signatures, attend the ga
 Finally, our group did a "Ridership Was Weighted by Percent IT Residents" . doing The following provides a rough formula
 of the score card, where those with the highest number were our best recomendations for sending outreach:
 
-![placeholder](https://github.com/ShadowBrandon/Metropolitan-Transportation-Authority-Analysis-/blob/master/MTAWeighting.png "Method of Weighting")
+![Image test]({{https://github.com/ShadowBrandon/ShadowBrandon.github.io/tree/master}}/Images/MTACleaning.png "Method of Weighting")
 
 ## The First Wave of Results -
 
 #### Top 10 MTA Stations 
 
-![placeholder](https://github.com/ShadowBrandon/Metropolitan-Transportation-Authority-Analysis-/blob/master/MTARidership.png "Top 10 MTA Station Ridership (non-weighted)")
+![Image test]({{https://github.com/ShadowBrandon/ShadowBrandon.github.io/tree/master}}/Images/MTARidership.png "Top 10 MTA Station Ridership (non-weighted)")
 
 #### Number of Week in Spring for Canvassing
 
-![placeholder](https://github.com/ShadowBrandon/Metropolitan-Transportation-Authority-Analysis-/blob/master/WeeklyRidership.png "Weekly Ridership")
+![Image test]({{https://github.com/ShadowBrandon/ShadowBrandon.github.io/tree/master}}/Images/WeeklyRidership.png "Weekly Ridership")
 
 #### Days of the Week to Canvass
 
-![placeholder](https://github.com/ShadowBrandon/Metropolitan-Transportation-Authority-Analysis-/blob/master/DailyRidership.png "Large example image")
+![Image test]({{https://github.com/ShadowBrandon/ShadowBrandon.github.io/tree/master}}/Images/DailyRidership.png "Large example image")
 
 ## The Second Wave of Results -
 
-![placeholder](https://github.com/ShadowBrandon/Metropolitan-Transportation-Authority-Analysis-/blob/master/WeightedTop10.png "Top 10 MTA Station Ridership (weighted)")
+![Image test]({{https://github.com/ShadowBrandon/ShadowBrandon.github.io/tree/master}}/Images//WeightedTop10.png "Top 10 MTA Station Ridership (weighted)")
 
 
 ## The Recommendations from General Analysis and Weighted Scores Analysis
@@ -58,7 +58,7 @@ of the score card, where those with the highest number were our best recomendati
 * Tues-Thurs
 * All Spring weeks equally good
 ### Station from high priority to low-priority:
-![placeholder](https://github.com/ShadowBrandon/Metropolitan-Transportation-Authority-Analysis-/blob/master/CorrectedTop10StationWeightedListFinal.png "Top 10 MTA Station Ridership List (weighted)")
+![Image test]({{https://github.com/ShadowBrandon/ShadowBrandon.github.io/tree/master}}/Images//master/CorrectedTop10StationWeightedListFinal.png "Top 10 MTA Station Ridership List (weighted)")
 
 
 
