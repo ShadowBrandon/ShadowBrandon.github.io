@@ -18,6 +18,8 @@ benefit from campaining two to three months before the gala starts. From there, 
 removing duplicate data, removing negative counts, cap 4 hour intervals at 50,000, and remove days with 0 riders.
 It is worth noting that only 5 percent of the data had one of these characteristics. 
 
+![placeholder](https://github.com/ShadowBrandon/Metropolitan-Transportation-Authority-Analysis-/blob/master/MTACleaning.png "Abstract Method of Cleaning")
+
 In the first wave of data analysis, we looked at results of ridership by various variables.
 
 Our group developed a second wave of data analysis when we analyze the "% IT Residents by Zipcode" and linking the 
@@ -27,25 +29,25 @@ would provide a stronger likelihood to gather the most signatures, attend the ga
 Finally, our group did a "Ridership Was Weighted by Percent IT Residents" . doing The following provides a rough formula
 of the score card, where those with the highest number were our best recomendations for sending outreach:
 
->> Daily Total Ridershop Per Station * % of NYC’s Information Tech Workers that are Residents in that Station’s Zip Code = Daily IT Ridership Per Station
-![placeholder](https://github.com/ShadowBrandon/Metropolitan-Transportation-Authority-Analysis-/blob/master/MTACleaning.png "Large example image")
+![placeholder](https://github.com/ShadowBrandon/Metropolitan-Transportation-Authority-Analysis-/blob/master/MTAWeighting.png "Method of Weighting")
 
 ## The First Wave of Results -
 
 #### Top 10 MTA Stations 
 
-![placeholder](http://placehold.it/800x400 "Large example image")
+![placeholder](https://github.com/ShadowBrandon/Metropolitan-Transportation-Authority-Analysis-/blob/master/MTARidership.png "Top 10 MTA Station Ridership (non-weighted)")
 
-#### Week in Spring for Canvassing
+#### Number of Week in Spring for Canvassing
 
-![placeholder](http://placehold.it/800x400 "Large example image")
+![placeholder](https://github.com/ShadowBrandon/Metropolitan-Transportation-Authority-Analysis-/blob/master/WeeklyRidership.png "Weekly Ridership")
+
 #### Days of the Week to Canvass
 
-![placeholder](http://placehold.it/800x400 "Large example image")
+![placeholder](https://github.com/ShadowBrandon/Metropolitan-Transportation-Authority-Analysis-/blob/master/DailyRidership.png "Large example image")
+
 ## The Second Wave of Results -
 
-
-![placeholder](http://placehold.it/800x400 "Large example image")
+![placeholder](https://github.com/ShadowBrandon/Metropolitan-Transportation-Authority-Analysis-/blob/master/WeightedTop10.png "Top 10 MTA Station Ridership (weighted)")
 
 
 ## The Recommendations from Weighted Scores
