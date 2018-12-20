@@ -30,4 +30,4 @@ I hope to be able to tackle more topics of Data Science and Databases in the nex
 
 My goals are to continue to not hold myself accountable while learning but also have a space for remembering these insights to be more meaningful. This is my first time doing this so we will see what comes from this.
 
-*Sean Malos
+*Sean Malos*
